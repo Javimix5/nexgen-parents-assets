@@ -1,4 +1,8 @@
-# nexgen-parents-assets
+<p align="center">
+  <img src="https://github.com/Javimix5/nexgen-parents-assets/blob/main/icons/logomini.webp">
+</p>
+
+# Assets
 
 Repositorio de **activos e imágenes** utilizados en la plataforma [NexGen Parents](https://nexgenparents.com): guías de control parental para familias.
 
@@ -9,17 +13,15 @@ Repositorio de **activos e imágenes** utilizados en la plataforma [NexGen Paren
 - Ilustraciones y material visual para documentación y marketing de NexGen Parents.
 - Archivos estáticos que enriquecen la experiencia del usuario.
 
-## Estructura de carpetas sugerida
+## Estructura de carpetas
 
 ```
-assets/
-├── iconos/
-├── logotipos/
-├── banners/
-├── ilustraciones/
-└── otros/
+/
+├── control-parental/
+├── forum/
+├── icons/
+├── info/
 ```
-_Organiza los archivos dentro de la carpeta correspondiente para facilitar su localización y reutilización._
 
 ## Uso de los activos
 
