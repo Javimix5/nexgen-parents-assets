@@ -21,21 +21,13 @@ Repositorio de **activos e imágenes** utilizados en la plataforma [NexGen Paren
 ├── forum/
 ├── icons/
 ├── info/
+├── video/
 ```
 
 ## Uso de los activos
 
 - **Uso autorizado:** Las imágenes están destinadas exclusivamente para la plataforma y documentación oficial de NexGen Parents.
 - **Créditos:** Si necesitas usar algún material gráfico fuera del entorno oficial, solicita autorización o cita la fuente apropiadamente.
-
-## Contribuir
-
-¿Tienes imágenes o mejoras que aportar? Los pasos recomendados:
-
-1. Haz un fork del repositorio.
-2. Añade tus archivos en la carpeta correspondiente.
-3. Abre un Pull Request explicando tu aportación y su propósito.
-4. El equipo de NexGen Parents revisará la propuesta antes de aceptarla.
 
 ## Licencia
 
